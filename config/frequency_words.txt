@@ -1,5 +1,6 @@
 比特币
-Ethereum
+稳定币
+Tether
 BNB
 币安
 
